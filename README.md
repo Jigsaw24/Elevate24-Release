@@ -9,7 +9,7 @@ To deploy the application:
 
 - Download the release
 - Deploy the pkg with your MDM tool of choice
-- -There is no step 3. ;)
+- There is no step 3. ;)
 
 
 ## Managed Features
